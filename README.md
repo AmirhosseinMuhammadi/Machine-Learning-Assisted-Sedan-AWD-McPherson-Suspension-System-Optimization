@@ -1,1 +1,1 @@
-# Machine-Learning-Assisted-Sedan-AWD-McPhesron-Suspension-System-Optimization
+# Machine-Learning-Assisted-Sedan-AWD-McPherson-Suspension-System-Optimization
